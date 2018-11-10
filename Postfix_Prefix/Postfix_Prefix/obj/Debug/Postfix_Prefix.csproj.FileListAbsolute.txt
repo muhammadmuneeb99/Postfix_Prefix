@@ -1,0 +1,7 @@
+C:\Users\munee\source\repos\Postfix_Prefix\Postfix_Prefix\bin\Debug\Postfix_Prefix.exe.config
+C:\Users\munee\source\repos\Postfix_Prefix\Postfix_Prefix\bin\Debug\Postfix_Prefix.exe
+C:\Users\munee\source\repos\Postfix_Prefix\Postfix_Prefix\bin\Debug\Postfix_Prefix.pdb
+C:\Users\munee\source\repos\Postfix_Prefix\Postfix_Prefix\obj\Debug\Postfix_Prefix.csprojAssemblyReference.cache
+C:\Users\munee\source\repos\Postfix_Prefix\Postfix_Prefix\obj\Debug\Postfix_Prefix.csproj.CoreCompileInputs.cache
+C:\Users\munee\source\repos\Postfix_Prefix\Postfix_Prefix\obj\Debug\Postfix_Prefix.exe
+C:\Users\munee\source\repos\Postfix_Prefix\Postfix_Prefix\obj\Debug\Postfix_Prefix.pdb
